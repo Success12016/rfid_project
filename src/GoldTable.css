@@ -1,0 +1,11 @@
+.centered-table {
+    margin: 0 auto; /* กำหนดให้ตารางอยู่ตรงกลาง */
+    border-collapse: collapse; /* รวมเซลล์ตาราง */
+  }
+  
+  .centered-table th, .centered-table td {
+    padding: 10px; /* กำหนดระยะห่างขอบของเซลล์ในตาราง */
+    border: 1px solid #ddd; /* กำหนดเส้นขอบสีเทารอบเซลล์ในตาราง */
+    text-align: center; /* กำหนดการจัดข้อความตรงกลางในเซลล์ */
+  }
+  
