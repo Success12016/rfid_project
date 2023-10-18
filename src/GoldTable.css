@@ -1,6 +1,8 @@
 .centered-table {
     margin: 0 auto; /* กำหนดให้ตารางอยู่ตรงกลาง */
     border-collapse: collapse; /* รวมเซลล์ตาราง */
+    width: 80%;
+    background-color: white;
   }
   
   .centered-table th, .centered-table td {

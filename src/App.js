@@ -7,6 +7,24 @@ function App() {
   const goldNecklaces = [
     { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
     { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 11111111, type: "สร้อย", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
+    { date: "00-00-0000", time: "00:00", id: 22222222, type: "แหวน", size: "0 สลึง", weight: "0 กรัม", activity: "จัดเก็บ",  status: "สำเร็จ"},
   ];
 
   return (
